@@ -1,6 +1,6 @@
 ### Hi there Niktesla here!👋
-💻 Currently exploring Github and understanding how to do things
-⛰️ Always interested in exploring and learning new things 
+-💻 Currently exploring Github and understanding how to do things <br/>
+-⛰️ Always interested in exploring and learning new things 
 
 
 <!--
