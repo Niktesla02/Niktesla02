@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there Niktesla here!👋
+💻 Currently exploring Github and understanding how to do things
+⛰️ Always interested in exploring and learning new things 
+
 
 <!--
 **Niktesla02/Niktesla02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
